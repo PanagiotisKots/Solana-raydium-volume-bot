@@ -6,7 +6,7 @@ This bot is designed to automate the distribution of SOL to multiple wallets and
 
 ## **Features** ✨
 
-- **💸 Automated SOL Distribution**: Distributes SOL to new wallets effortlessly.
+- **💸 Automated SOL Distribution**: Distributes SOL to new wallets.
 - **🔄 Endless Buy and Sell Swaps**: Simultaneously performs buy and sell transactions to simulate high-volume trading.
 - **⚙️ Configurable Parameters**: Customizable buy amounts, intervals, distribution settings, and more.
 - **💥 Massive Buy Mode**: Configure multiple wallets for large-scale buy operations.
