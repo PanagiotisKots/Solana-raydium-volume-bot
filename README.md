@@ -1,22 +1,23 @@
-# Raydium Pairs Volume Bot
+# **Raydium Pairs Volume Bot** ⚙️
 
-This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
+This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the **Raydium** platform. It leverages **Solana's** blockchain technology to perform these operations efficiently.
 
-## This product is trying to show the basic functions of volume bot, and not suitable for big live tokens. So, if you want better version, you can refer to version 2 in my github.
+### *⚠️ Note: This product demonstrates the basic functions of a volume bot and is not suitable for large live tokens. For a more advanced version, please refer to [Version 2](#) on my GitHub.*
 
-## Features
+## **Features** ✨
 
-- **Automated SOL Distribution**: Distributes SOL to new wallets.
-- **Endless Buy and Sell Swaps**: Performs simultaneous buy and sell transactions.
-- **Configurable Parameters**: Allows customization of buy amounts, intervals, distribution settings, and more.
-- **Massive Buy Mode**: Enables the configuration of multiple wallets for large-scale buy operations.
-- **Sell Mode**: Gradually sells all tokens in sub-wallets through small transactions.
-- **Token Pair Settings**: Configurable token mint and pool ID for swap operations.
-- **Logging**: Supports adjustable logging levels for better monitoring and debugging.
+- **💸 Automated SOL Distribution**: Distributes SOL to new wallets effortlessly.
+- **🔄 Endless Buy and Sell Swaps**: Simultaneously performs buy and sell transactions to simulate high-volume trading.
+- **⚙️ Configurable Parameters**: Customizable buy amounts, intervals, distribution settings, and more.
+- **💥 Massive Buy Mode**: Configure multiple wallets for large-scale buy operations.
+- **📉 Sell Mode**: Gradually sells all tokens in sub-wallets through small transactions.
+- **🔗 Token Pair Settings**: Configurable token mint and pool ID for swap operations.
+- **📝 Logging**: Adjustable logging levels for improved monitoring and debugging.
 
-## Environment Variables
+## **Environment Variables** 🔐
 
 The bot uses the following environment variables, which should be defined in a `.env` file:
+
 
 ```env
 PRIVATE_KEY=                 # Private key for the main wallet
@@ -59,16 +60,22 @@ BLOCKENGINE_URL=ny.mainnet.block-engine.jito.wtf  # Block engine URL
 LOG_LEVEL=info               # Logging level (info, debug, error)
 ```
 
-## Usage
+
+
+## Usage 🤖
+
 1. Clone the repository
 ```
 git clone https://github.com/AlaMoonzzz/Solana-raydium-volume-bot.git
 cd Raydium-Volume-Bot-Solana
 ```
+
 2. Install dependencies
+
 ```
 npm install
 ```
+
 3. Configure the environment variables
 
 Rename the .env.copy file to .env and set RPC and WSS, main keypair's secret key, and jito auth keypair.
@@ -79,14 +86,9 @@ Rename the .env.copy file to .env and set RPC and WSS, main keypair's secret key
 npm start
 ```
 
+## **Author** ✍️
 
-## Author
+- **Telegram**: [https://t.me/AlaMoonzzz](https://t.me/AlaMoonzzz)
+- **Discord**: [https://discord.com/users/304228787250528256](https://discord.com/users/304228787250528256)
 
-
-Telegram: https://t.me/AlaMoonzzz
-
-Discord: https://discord.com/users/304228787250528256
-
-
-
-You can always find me here, for help, or for other projects.
+You can always find me here for help or to discuss other projects. Feel free to reach out! 💬
