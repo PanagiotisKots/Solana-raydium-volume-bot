@@ -61,30 +61,15 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ```
 
 
+## **Usage** 🤖
 
-## Usage 🤖
+| Step | Command/Action                                                                                                      | Description                                                                                                      |
+|------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 1    | ```git clone https://github.com/AlaMoonzzz/Solana-raydium-volume-bot.git```<br>```cd Raydium-Volume-Bot-Solana```  | 📂 **Clone** the repository and navigate to the bot directory.                                                   |
+| 2    | ```npm install```                                                                                                   | 📦 **Install** the required dependencies.                                                                        |
+| 3    | Rename the `.env.copy` file to `.env` and configure the environment variables.                                       | ⚙️ **Configure** RPC, WSS, main keypair's secret key, and jito auth keypair.                                     |
+| 4    | ```npm start```                                                                                                     | 🚀 **Run** the bot.                                                                                              |
 
-1. Clone the repository
-```
-git clone https://github.com/AlaMoonzzz/Solana-raydium-volume-bot.git
-cd Raydium-Volume-Bot-Solana
-```
-
-2. Install dependencies
-
-```
-npm install
-```
-
-3. Configure the environment variables
-
-Rename the .env.copy file to .env and set RPC and WSS, main keypair's secret key, and jito auth keypair.
-
-4. Run the bot
-
-```
-npm start
-```
 
 ## **Author** ✍️
 
