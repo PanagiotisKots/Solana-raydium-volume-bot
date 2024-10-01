@@ -16,7 +16,24 @@ This bot is designed to automate the distribution of SOL to multiple wallets and
 
 ## **Environment Variables** 🔐
 
+
+
+
 The bot uses the following environment variables, which should be defined in a `.env` file:
+
+
+## **Technologies Used** 🛠️
+
+![Solana](https://img.shields.io/badge/solana-%2300BFFF.svg?style=for-the-badge&logo=solana&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Express](https://img.shields.io/badge/express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white) 
+
+
 
 
 ```env
